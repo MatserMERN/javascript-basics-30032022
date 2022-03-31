@@ -122,8 +122,8 @@ Prmitive Types
 -----------------
 A type of data that represents a  single value is called primitive data type
 
-1. undefined - this represents lack of existance ( we should never use this)
-2. null - this represents lack of existance ( we can set this to a variable)
+1. undefined - this represents lack of existance ( but we should never use this)
+2. null - this represents lack of existance ( but we can set this to a variable)
 3. Boolean - true or false
 4. number - integer/floating type(decimal)
 5. string - a sequence of characters
