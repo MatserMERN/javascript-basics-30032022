@@ -184,6 +184,8 @@ JavaScript Object Notation
 
 JSON is Inspired by the object literal notation {}
 
+XML
+----
 <data>
     <firstname>uma</firstname>
     <lastName>Mahesh</lastName>
