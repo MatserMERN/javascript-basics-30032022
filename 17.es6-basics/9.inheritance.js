@@ -8,14 +8,14 @@ class Shape{
     }
 }
 
-class Circle extends Shape{
+class Circle extends Shape {
     constructor(){
         super()
     }
 
-    // draw(){
-    //     return "I am Circle"
-    // }
+    draw(){
+        return "I am Circle"
+    }
 
     getData() {
         return  {
